@@ -1,6 +1,4 @@
-# Trails of Rebellion
- Unity project and relevant documentation for the development of Trails of Rebellion.
-
+![Trails of Rebellion](/Documentation/Images/ToRLogo.png)
 # Setup Instructions
 1. Clone this repository
 2. Install Unity 6000.0.31f1
