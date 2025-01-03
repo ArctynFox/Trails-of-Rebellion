@@ -40,3 +40,6 @@ sysinfo.txt
 *.apk
 *.unitypackage
 [Ee]xports
+
+# Obsidian.md vault files
+.obsidian/
